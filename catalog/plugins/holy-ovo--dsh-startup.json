@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "holy-ovo/dsh-startup",
+  "name": "dsh-startup",
+  "repository": "https://github.com/holy-ovo/dsh-startup",
+  "category": "theme",
+  "description": {
+    "en": "A deep-sea dive splash screen for DeepSeek Harness startup: a depth gauge with a submersible probe, a character reveal video that then loops seamlessly, seafloor relief, coral reef, bubbles and bioluminescent particles. The depth reached decides which sea creatures appear.",
+    "zh": "给 DeepSeek Harness 的深海下潜式启动动画：深度尺与探测器、之后无缝循环的角色出场视频、海底地形与珊瑚礁、气泡与生物荧光粒子。下潜到哪一层，就出现哪一层的海洋生物。"
+  },
+  "added": "2026-10-25"
+}
